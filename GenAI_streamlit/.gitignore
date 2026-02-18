@@ -1,0 +1,4 @@
+GenAI_streamlit/
+__pycache__/
+*.pyc
+.DS_Store
